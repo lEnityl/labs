@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/9b3cf2bd-e8b6-44b7-861c-e567f27d22eb)# Тема 8
+# Тема 8
 Отчет по Теме #8 выполнил:
 - Ковех Екатерина
 - ИВТ-22-1
